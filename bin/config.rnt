@@ -1,0 +1,25 @@
+; Generated (17.05.2024 07:57:43) by RunAs Tool v1.5 - Freeware
+; www.sordum.org
+
+[RunAsTool_Item]
+ItemID=oxp
+FileName=Electrum 4.5.4
+FilePath=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\electrum\electrum-4.5.4-portable.exe
+Parameters=
+WorkingDir=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\electrum
+Icon=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\electrum\electrum-4.5.4-portable.exe
+IconIndex=0
+FileSize=47825152
+ItemOptions=6
+
+[RunAsTool_Item]
+ItemID=iex
+FileName=Monero Wallet GUI
+FilePath=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\monero\monero-gui-v0.18.3.3\monero-wallet-gui.exe
+Parameters=
+WorkingDir=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\monero\monero-gui-v0.18.3.3
+Icon=C:\\Users\\Administrator\\Desktop\\CryptoDownloader22\bin\monero\monero-gui-v0.18.3.3\monero-wallet-gui.exe
+IconIndex=0
+FileSize=120629366
+ItemOptions=6
+
